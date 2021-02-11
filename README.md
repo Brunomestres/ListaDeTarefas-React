@@ -1,3 +1,5 @@
+# Descrição
+  Uma simples lista de tarefas com CRUD completo utilizando o LocalStorage para guardar as informações.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
